@@ -2,6 +2,6 @@
 layout: slide
 title: "Weclome to our second slide!"
 ---
-your text
+This is danandguru file
 use left arrow to go back!
 
